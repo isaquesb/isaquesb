@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F700&width=435&lines=Engenheiro+de+Software!+%2B15+anos;PHP+%7C+JAVA+%7C+NODE+%7C+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F700&width=435&lines=Engenheiro+de+Software!+%2B15+anos;PHP+%7C+GO+%7C+JAVA+%7C+NODE+%7C+C%23)](https://git.io/typing-svg)
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquesb&theme=vue"/>
