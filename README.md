@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F700&width=435&lines=Engenheiro+de+Software!+%2B15+anos;PHP+%7C+GO+%7C+JAVA+%7C+NODE+%7C+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=020DF7&center=true&width=435&lines=Tech+Lead+%7C+Sr+Software+Engineer;PHP+%7C+GoLang+%7C+Java+%7C+Node+%7C+C%23)](https://git.io/typing-svg)
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquesb&theme=transparent"/>
@@ -6,13 +6,11 @@
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaquesb&theme=transparent"/>
-     
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaquesb&theme=transparent"/>
 </div>
 
 <div >
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaquesb&theme=transparent"/>
-     
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaquesb&theme=transparent&utcOffset=8"/>
 </div>
 
