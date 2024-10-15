@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F700&width=435&lines=Engenheiro+de+Software!+%2B15+anos;PHP+%7C+GO+%7C+JAVA+%7C+NODE+%7C+C%23)](https://git.io/typing-svg)
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquesb&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquesb&theme=transparent"/>
 </div>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaquesb&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaquesb&theme=transparent"/>
      
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaquesb&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaquesb&theme=transparent"/>
 </div>
 
 <div >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaquesb&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaquesb&theme=transparent"/>
      
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaquesb&theme=vue&utcOffset=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaquesb&theme=transparent&utcOffset=8"/>
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=isaquesb&rank=SSS,SS,S,AAA,AA,A,B,SECRET&theme=onestar&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
